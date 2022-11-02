@@ -1,5 +1,5 @@
 # FamilyMap-CodeSamples
-Here are a couple of files from my Family Map Android App. These files include the User Interface, Back-End, SQLite Database Code, and Unit Tests 
+Here are a couple of files from my Family Map Android App. This app was designed to register new users and display their family tree and life events on a Google Map. You can naviagte through the app, filter based on gender or types of relationships, as well as gather more information when selecting certain locations. These files include User Interface, Back-End, SQLite Database Code, and Unit Tests 
 
 ### MapFragment.java
 
