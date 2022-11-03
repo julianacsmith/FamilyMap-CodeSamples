@@ -15,7 +15,7 @@ UserDAO.java is the inserting, finding, and deleting of a user from the SQLIte D
 
 ### FamilyGeneration.java
 
-FamilyGeneration.java is where I generated family trees for a given registered user. It uses recursion to populate parents for each geneerated person until the specifies generations is reached. This file also adds events for each person generated. Marriage is dealt with in generatePerson2 while birth and death dates are handled in addEvents.
+FamilyGeneration.java is where I generated family trees for a given registered user. It uses recursion to populate parents for each generated person until the specifies generations is reached. This file also adds events for each person generated. Marriage is dealt with in generatePerson2 while birth and death dates are handled in addEvents.
 
 ### ChronologicalEventsTest.java and PersonServiceTest.java
 
